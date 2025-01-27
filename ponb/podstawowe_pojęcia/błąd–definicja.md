@@ -1,0 +1,3 @@
+1. **FAILURE = uszkodzenie** – trwała i łatwa do wykrycia awaria oprogramowania (poziom systemowy); sprzętu lub oprogramowania (poziom systemowy).
+2. **ERROR = błąd, pomyłka** – najczęściej wynikająca z czynnika ludzkiego, błąd projektowy, „bug” w oprogramowaniu (poziom logiczny).
+3. **FAULT = wada, usterka** – zazwyczaj losowe uszkodzenie małego albo elementarnego elementu systemu, mające (lub nie) wpływ na jego działanie. Czasami bardzo trudne do wykrycia (poziom fizyczny).

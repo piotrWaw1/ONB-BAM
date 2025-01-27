@@ -1,0 +1,1 @@
+Każda wartość jest interpretowana jako dokładny wynik.
